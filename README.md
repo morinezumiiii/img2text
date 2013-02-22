@@ -1,4 +1,4 @@
-img2string-py
+img2text
 =============
 
 Tesseract OCR wrapper with Python 2.7
